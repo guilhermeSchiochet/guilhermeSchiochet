@@ -1,9 +1,7 @@
-- 👋 oiii, I’m @guilhermeSchiochet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+- 👋 Olá, Meu nome é Guilherme Schiochet
+- 📲 Sou desenvolvedor Mobile
+- 🏢 Trabalhando na IpmSistemas
+
 <div align="center">
   <a href="https://github.com/guilhermeSchiochet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
