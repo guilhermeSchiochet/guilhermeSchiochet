@@ -3,7 +3,7 @@
 [![Guilherme Schiochet](https://readme-typing-svg.herokuapp.com/?color=f03838&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Schiochet;I'm+18+years+old;I+from+Rio+do+sul,+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=guilhermeSchiochet&show_icons=false&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeSchiochet&show_icons=false&theme=dark"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeSchiochet&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
