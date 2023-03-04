@@ -26,7 +26,6 @@
 
 ### Main skills:
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Visual Studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=12b3f8&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
