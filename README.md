@@ -23,6 +23,10 @@
     </a>
 </div>
 
+### Development platform
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/iOS-0D1117?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 
 ### Main skills:
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
