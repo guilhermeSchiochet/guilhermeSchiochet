@@ -26,6 +26,7 @@
 ### Development platform
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Web](https://img.shields.io/badge/web-0D1117?style=for-the-badge)&nbsp;
 ![](https://img.shields.io/badge/iOS-0D1117?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 
 ### Main skills:
