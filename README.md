@@ -8,17 +8,13 @@
 </div>
 <br>
 
-
-
-
-  <h1 align="center">Connect with me</h1>
+<h1 align="center">Connect with me</h1>
 
 <p align="center">
 <a href="mailto:guilhermeschiochet.dev@gmail.com"><img src="https://img.shields.io/badge/-guilhermeschiochet.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilherme-schiochet-8814ab224/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/starkzhx/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 </p>
-
 
 ### Development platform
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
@@ -29,16 +25,15 @@
 ### Main skills:
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=12b3f8&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=12b3f8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
   
 ### Studying in this moment:
 ![data structure](https://img.shields.io/badge/-Data_structure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e35b56&height=120&section=footer"/>
