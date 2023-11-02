@@ -36,7 +36,7 @@
   
 ### Studying in this moment:
 ![data structure](https://img.shields.io/badge/-Data_structure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Data_structure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Data_structure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f54542&height=120&section=footer"/>
