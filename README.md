@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=494c4d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=335943&height=120&section=header"/>
  
-[![Guilherme Schiochet](https://readme-typing-svg.herokuapp.com/?color=494c4d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Schiochet;I'm+19+years+old;I+from+Rio+do+sul,+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Guilherme Schiochet](https://readme-typing-svg.herokuapp.com/?color=335943&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Schiochet;I'm+20+years+old;I+from+Rio+do+sul,+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeSchiochet&show_icons=false&theme=dark"/>
@@ -39,4 +39,4 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=494c4d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=335943&height=120&section=footer"/>
