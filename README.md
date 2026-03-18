@@ -34,9 +34,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
-### Studying in this moment:
-![data structure](https://img.shields.io/badge/-Data_structure-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e7a7d&height=120&section=footer"/>
