@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Consolas, "Liberation Mono", monospace; }
+    .dot  { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  </style>
+  <rect width="880" height="150" rx="14" fill="#111214"/>
+  <rect x="0.5" y="0.5" width="879" height="149" rx="14" fill="none" stroke="#24262B"/>
+  <rect x="0" y="24" width="4" height="102" rx="2" fill="#FF8A5B"/>
+
+  <g class="mono">
+    <circle class="dot" cx="38" cy="40" r="5" fill="#7FD1C7"/>
+    <text x="52" y="45" font-size="13" fill="#7FD1C7">em produção</text>
+    <text x="32" y="88" font-size="30" font-weight="700" fill="#D8D4CC">DM Flow</text>
+    <text x="32" y="120" font-size="15" fill="#8E949E">Automação de DM no Instagram por palavra-chave, com log de cada entrega.</text>
+    <text x="848" y="45" font-size="13" fill="#E8C872" text-anchor="end">dmflow.mocley.com  →</text>
+  </g>
+</svg>
